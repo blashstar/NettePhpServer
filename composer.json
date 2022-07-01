@@ -1,5 +1,5 @@
 {
-    "name": "kdyby/nette-php-server",
+    "name": "blashstar/nette-php-server",
     "type": "library",
     "description": "Nette console commands for running application in php builtin server.",
     "keywords": ["console", "command", "server", "php"],
@@ -23,11 +23,5 @@
         "psr-4": {
             "Kdyby\\NettePhpServer\\": "src/"
         }
-    },
-    "repositories": [
-        {
-            "type": "git",
-            "url": "git@github.com:blashstar/NettePhpServer.git"
-        }
-    ]
+    }
 }
